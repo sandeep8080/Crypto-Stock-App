@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Crypto/Stocks App monoRepo",
   "scripts": {
-    "build-frontend":"npm --prefix frontend npm run build"
+    "build-frontend":"npm --prefix frontend run build"
   },
   "repository": {
     "type": "git",
